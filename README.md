@@ -3,7 +3,7 @@
 This is my final project for the web development course. I built this website for a gym called "Elite Fitness." I tried to make it look modern and easy to use on both computers and mobile phones.
 
 ## Live Website Link
-[Click here to open the site](https://rahmahossamsalahjuma-tech.github.io/Elite-Fitness/contact.html
+[Click here to open the site](https://rahmahossamsalahjuma-tech.github.io/ELITE-FITNESS/
 )
 
 ## Preview
